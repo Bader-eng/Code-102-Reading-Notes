@@ -6,9 +6,9 @@
 
 ## Syntax guide:
 * Headers :
-> `# This is an <h1> tag`
-> `##  This is an <h2> tag`
-> `######  This is an <h6> tag`
+1. `# This is an <h1> tag`
+2. `##  This is an <h2> tag`
+3. `######  This is an <h6> tag`
 
 * styling text 
 
@@ -21,11 +21,11 @@ Bold and nested italic | ** ** and _ _ |         | > `**This text is _extremely_
 All bold and italic | *** *** |             | > `***All this text is important***` | All this text is important
 
 * Ordered 
-> `1. Item 1`
-> `1. Item 2`
-> `1. Item 3`
-   >  `1. Item 3a`
-   > `(1. Item 3b`
+* ` 1. Item 1`
+* ` 1. Item 2`
+* ` 1. Item 3`
+   * `1. Item 3a`
+   * `1. Item 3b`
 * Images: 
 > `![GitHub Logo](/images/logo.png) 
 > Format: ![Alt Text](url)`
