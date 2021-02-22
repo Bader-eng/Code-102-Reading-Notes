@@ -13,4 +13,5 @@ In these, I present to you some of the topics that are concerned with the develo
 3. [growth_mindset](growth_mindset)
 4. [HTML](HTML)
 5. [growth_mindset](growth_mindset)
+6. [color_standard](color_standard)
 ![Blockchain](https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg)
