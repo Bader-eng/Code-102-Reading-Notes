@@ -8,7 +8,7 @@ In these, I present to you some of the topics that are concerned with the develo
 
 ## The subjects:
 
-1. [Markdown](Maekdown)
+1. [Markdown](Markdown)
 2. [git](git)
 3. [growth_mindset](growth_mindset)
 ![Blockchain](https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg)
