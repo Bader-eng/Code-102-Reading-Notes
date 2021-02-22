@@ -22,6 +22,5 @@ Challenge | Embraces | Avoids
 Obstacles | Presists | loses focus 
 Effort | np pain,no gain | Views as fruitless
 Criticism | Learns from | Ignores
-[Markdown](Markdown)
 
 ![Keep going](https://image.shutterstock.com/image-photo/quote-keep-going-over-road-260nw-1505780975.jpg)
