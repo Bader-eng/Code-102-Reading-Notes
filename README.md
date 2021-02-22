@@ -16,7 +16,7 @@ can only get what he wants by facing challenges and possessing passion, ambition
    without the need for further development or effort.
 
 ## compare between growth mindset and fixed mindset:
-Comparison | growth mindset | fixed mindset
+Comparison | [growth mindset](growth mindset) | fixed mindset
 ---------- | -------------- | -------------
 Challenge | Embraces | Avoids
 Obstacles | Presists | loses focus 
