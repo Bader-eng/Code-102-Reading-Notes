@@ -10,6 +10,5 @@ On this page, I present to you some of the topics that are concerned with the de
 2. [git](git)
 3. [growth_mindset](growth_mindset)
 4. [HTML](HTML)
-5. [growth_mindset](growth_mindset)
-6. [color_standard](color_standard)
-7. [Javascript](Javascript)
+5. [color_standard](color_standard)
+6. [Javascript](Javascript)
