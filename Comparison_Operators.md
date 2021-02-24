@@ -1,14 +1,3 @@
-## Comparison Operators:
-1. == equal to
-2. === 	equal value and equal type
-3. != not equa
-4. !==  not equal value or not equal type
-5. < less than
-6. <= less than or equal to
- ## Logical Operators:
-1. && 	and
-2. ||  or
-3. !  not
 
 ## avaScript supports different kinds of loops:
 1. for - loops through a block of code a number of times
