@@ -1,16 +1,17 @@
 ## Comparison Operators:
-1. == 	equal to
+1. == equal to
 2. === 	equal value and equal type
-3. != 	not equa
-4. !== 	not equal value or not equal type
-5. > 	greater than
-6. < 	less than
-7. >= 	greater than or equal to
-8. <= 	less than or equal to
+3. != not equa
+4. !==  not equal value or not equal type
+5. > greater than 
+6. < less than
+7. >= greater than or equal to
+8. <= less than or equal to
  ## Logical Operators:
-1.  && 	and
-2.  || 	or
-3. ! 	not
+1. && 	and
+2. ||  or
+3. !  not
+
 ## avaScript supports different kinds of loops:
 1. for - loops through a block of code a number of times
 2. for/in - loops through the properties of an object
