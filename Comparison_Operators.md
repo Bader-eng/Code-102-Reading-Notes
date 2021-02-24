@@ -3,10 +3,8 @@
 2. === 	equal value and equal type
 3. != not equa
 4. !==  not equal value or not equal type
-5. > greater than 
-6. < less than
-7. >= greater than or equal to
-8. <= less than or equal to
+5. < less than
+6. <= less than or equal to
  ## Logical Operators:
 1. && 	and
 2. ||  or
